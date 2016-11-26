@@ -1,0 +1,39 @@
+
+	<div class="gi_wrapper" ng-controller="foodGI">
+	<div class="ui-view" id="flex">
+		<header>
+			<a href="javascript:;" ng-click="goindex()"></a>
+			<h2>食物GI表</h2>
+			<span></span>
+		</header>
+
+			<main class="main">
+			<div class="box">
+				<div class="search">
+					<p class="p1" ui-sref="foodGI.gushu">
+						<input type="text" placeholder="请输入需要查找的食材">
+						<i class="fa fa-search"></i>
+					</p>
+					<p class="p2">
+						注:GI值是指食物的血糖生成指数,是衡量食物摄入后引起血糖反应的指标
+					</p>
+					<p class="p3">
+						<span><i></i>低</span>
+						<span><i></i>中</span>
+						<span><i></i>高</span>
+					</p>
+				</div>
+				<div class="content">
+					<i-swipe></i-swipe>
+
+					<div class="specific" >
+						<ul class="list">
+							<li ng-repeat="m in datalist">{{m.name}}<span class="green {{m.range}}">{{m.gram}}</span></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</main>
+		</div>
+	</div>
+

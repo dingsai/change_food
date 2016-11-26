@@ -1,0 +1,358 @@
+{
+  "error":0,
+  "errorMsg":"请求失败",
+  "result":[
+    {
+      "type": [
+        {
+          "name": "小麦",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 50,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 100,
+          "range": "middle"
+        },
+        {
+          "name": "小麦",
+          "gram": 38,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 30,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 40,
+          "range": "lower"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 40,
+          "range": "lower"
+        }
+      ]
+    },
+    {
+      "type": [
+        {
+          "name": "小麦",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 50,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 100,
+          "range": "middle"
+        },
+        {
+          "name": "小麦",
+          "gram": 38,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 30,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 40,
+          "range": "lower"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 40,
+          "range": "lower"
+        }
+      ]
+    },
+    {
+      "type": [
+        {
+          "name": "小麦",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 50,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 100,
+          "range": "middle"
+        },
+        {
+          "name": "小麦",
+          "gram": 38,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 30,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 40,
+          "range": "lower"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 40,
+          "range": "lower"
+        }
+      ]
+    },
+    {
+      "type": [
+        {
+          "name": "小麦",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 50,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 100,
+          "range": "middle"
+        },
+        {
+          "name": "小麦",
+          "gram": 38,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 30,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 40,
+          "range": "lower"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 40,
+          "range": "lower"
+        }
+      ]
+    },
+    {
+      "type": [
+        {
+          "name": "小麦",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 50,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 100,
+          "range": "middle"
+        },
+        {
+          "name": "小麦",
+          "gram": 38,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 30,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 40,
+          "range": "lower"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 40,
+          "range": "lower"
+        }
+      ]
+    },
+    {
+      "type": [
+        {
+          "name": "小麦",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 50,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 100,
+          "range": "middle"
+        },
+        {
+          "name": "小麦",
+          "gram": 38,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 30,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 40,
+          "range": "lower"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 40,
+          "range": "lower"
+        }
+      ]
+    },
+    {
+      "type": [
+        {
+          "name": "小麦",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 50,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 300,
+          "range": "higher"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 100,
+          "range": "middle"
+        },
+        {
+          "name": "小麦",
+          "gram": 38,
+          "range": "higher"
+        },
+        {
+          "name": "五花肉",
+          "gram": 30,
+          "range": "lower"
+        },
+        {
+          "name": "青菜",
+          "gram": 40,
+          "range": "lower"
+        },
+        {
+          "name": "鸡蛋",
+          "gram": 40,
+          "range": "lower"
+        }
+      ]
+    },
+    {
+      "type":[
+        {
+          "name":"小麦",
+          "gram":300,
+          "range":"higher"
+        },
+        {
+          "name":"五花肉",
+          "gram":50,
+          "range":"lower"
+        },
+        {
+          "name":"青菜",
+          "gram":300,
+          "range":"higher"
+        },
+        {
+          "name":"鸡蛋",
+          "gram":100,
+          "range":"middle"
+        },
+        {
+          "name":"小麦",
+          "gram":38,
+          "range":"higher"
+        },
+        {
+          "name":"五花肉",
+          "gram":30,
+          "range":"lower"
+        },
+        {
+          "name":"青菜",
+          "gram":40,
+          "range":"lower"
+        },
+        {
+          "name":"鸡蛋",
+          "gram":40,
+          "range":"lower"
+        }
+      ]
+    }
+  ]
+}
